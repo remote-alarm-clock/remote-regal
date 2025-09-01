@@ -30,7 +30,7 @@ Beim sauberen Aufkleben hilft eine Latte als Anschlag
 
 ## Wemos und USB-C Port auf der Rückseite des Regals
 
-<img src="images/wemos_usb.jpg" width="400">
+<img src="images/wemos_usb.JPG" width="400">
 
 
 # Stromversorgung
