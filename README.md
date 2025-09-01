@@ -35,7 +35,7 @@ Beim sauberen Aufkleben hilft eine Latte als Anschlag
 
 # Stromversorgung
 
-Wir haben ein USB-C Breakout genutzt zur Stromversorgung des Regals eingesetzt.
+Wir haben ein USB-C Breakout zur Stromversorgung des Regals eingesetzt.
 
 ## Informationen zur Konfiguration
 
